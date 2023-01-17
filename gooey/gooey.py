@@ -1,8 +1,4 @@
-#formatting & structure
-
-#def text(text, font, color):
-
-#def header(text, edges):
+# THIS IS THE EXECUTABLE MODULE FILE
 	
 def option(label, lstyle, text, tstyle):
 	output_form = []

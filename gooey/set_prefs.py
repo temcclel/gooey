@@ -1,0 +1,1 @@
+# run this script to update style preferences for an instance of Gooey
